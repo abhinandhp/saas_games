@@ -1,7 +1,20 @@
-# RetroGame Emulator
+# SAAS - The Retro Game Emulator
+
+Welcome to SAAS - The Retro Game Emulator! This application brings back the nostalgia of classic arcade games right to your fingertips. Whether you're a fan of Tic Tac Toe, Hangman, Dino Run, or Space Invaders, we've got you covered. Get ready to embark on a journey down memory lane!
+
+## Table of Contents
+1. [Description](#description)
+2. [Games](#games)
+3. [Design](#design)
+4. [Softwares Used](#softwares-used)
+5. [Usage](#usage)
+6. [Installation](#installation)
+7. [Support](#support)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ## Description
-SAAS, retro game Emulator is an application that offers a collection of classic games for endless fun and nostalgia. This Game Emulator enables users to enjoy retro-games in a single platform, providing a convenient and immersive gaming experience.
+SAAS, the retro game Emulator, is an application that provides a collection of classic games for endless fun and nostalgia. Enjoy a seamless gaming experience with our user-friendly interface and immerse yourself in the world of retro gaming.
 
 ## Games
 - Tic Tac Toe
@@ -10,14 +23,14 @@ SAAS, retro game Emulator is an application that offers a collection of classic 
 - Space Invaders
 
 ## Design
-The design of SAAS is inspired by classic arcade machines and retro gaming consoles. The user-friendly interface features vibrant colors, pixel art graphics, and nostalgic elements to evoke feelings of nostalgia. The simplicity of old-school arcade machines is reflected in the intuitive and easy-to-navigate design.
+The design of SAAS is inspired by classic arcade machines and retro gaming consoles. Our interface features vibrant colors, pixel art graphics, and nostalgic elements to transport you back in time. Enjoy the simplicity of old-school arcade machines with our intuitive and easy-to-navigate design.
 
 ## Softwares Used
 - Flutter
 - Android Studio
 - Visual Studio Code
 - Visual Studio Community
-- Github
+- GitHub
 
 ## Usage
 1. Choose your favorite game from the selection.
@@ -37,4 +50,4 @@ For any questions or issues, feel free to open an issue on GitHub or contact us 
 We welcome contributions from the community! If you'd like to contribute to SAAS - the retro game Emulator, please fork the repository, make your changes, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.1`
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file for details.
