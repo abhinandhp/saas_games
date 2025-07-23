@@ -286,6 +286,7 @@ class _Gamepage_2State extends State<Gamepage_2> {
                   ],
                 ),
               ),
+              
             ),
         ],
       ),
